@@ -11,8 +11,8 @@ I'm a backend developer with a strong focus on **Golang**, currently in my final
 
 ## Education
 
-- 🎓 Master’s Degree in Software Engineering – *Epitech France*
-- 🔐 Cybersecurity specialization – *Belgium, 1 year*
+- Master’s Degree in Software Engineering – *Epitech France*
+- Cybersecurity specialization – *Belgium, 1 year*
 
 ## Projects
 
