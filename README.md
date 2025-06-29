@@ -5,7 +5,7 @@ I'm a backend developer with a strong focus on **Golang**, currently in my final
 ## Tech Stack
 
 - **Languages**: Golang, JavaScript (Node.js), C, C++
-- **Web**: HTML, CSS, JavaScript
+- **Web**: React, HTML, CSS, JavaScript
 - **Database**: MongoDB
 - **Tools**: Github, Docker, VS Code
 
