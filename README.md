@@ -4,9 +4,9 @@ I'm a backend developer with a strong focus on **Golang**, currently in my final
 
 ## Tech Stack
 
-- **Languages**: Golang, JavaScript (Node.js), C, C++
-- **Web**: React, HTML, CSS, JavaScript
-- **Database**: MongoDB
+- **Languages**: Golang, JavaScript, C, C++, a bit of Rust
+- **Web**: Flutter, React, HTML, CSS, JavaScript
+- **Database**: MongoDB, SQL
 - **Tools**: Github, Docker, VS Code
 
 ## Education
@@ -14,17 +14,10 @@ I'm a backend developer with a strong focus on **Golang**, currently in my final
 - Master’s Degree in Software Engineering – *Epitech France*
 - Cybersecurity specialization – *Belgium, 1 year*
 
-## Projects
-
-I’m currently working on several backend and CLI-based projects using Go.  
-I also explore topics like micro-services, containerized deployments, and cryptographic algorithm.  
-More public projects are coming soon.
-
 ## Interests
 
 - Backend architecture, performance & algorithm
-- Cybersecurity tools & CTFs
-- Building secure and scalable systems
+- Cybersecurity tools & IoT
 
 ## Contact
 
