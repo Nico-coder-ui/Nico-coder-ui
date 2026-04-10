@@ -1,12 +1,12 @@
 # Hi, I'm Nicolas Lefevre 👋
 
-I'm a backend developer with a strong focus on **Golang**, currently in my final year of a Master's degree at **Epitech France**.
+I'm a sofware engineer and a web developer, currently in my final year of a Master's degree at **Epitech France**!
 
 ## Tech Stack
 
-- **Languages**: Golang, JavaScript, C, C++, a bit of Rust
+- **Languages**: C, C++, Golang, JavaScript, and with a bit of Rust
 - **Web**: Flutter, React, HTML, CSS, JavaScript
-- **Database**: MongoDB, SQL
+- **Database**: PostgreSQL, MongoDB, MySQL
 - **Tools**: Github, Docker, VS Code
 
 ## Education
@@ -17,7 +17,8 @@ I'm a backend developer with a strong focus on **Golang**, currently in my final
 ## Interests
 
 - Backend architecture, performance & algorithm
-- Cybersecurity tools & IoT
+- Software engineering
+- Cybersecurity vibe
 
 ## Contact
 
